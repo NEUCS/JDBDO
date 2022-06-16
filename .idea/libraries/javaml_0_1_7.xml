@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javaml-0.1.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/elements/src/main/java/KnowledgeReuse/tools/javaml-0.1.7/javaml-0.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
